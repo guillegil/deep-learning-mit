@@ -1,4 +1,4 @@
-\# Deep Learning MIT
+# Deep Learning MIT
 
 
 
